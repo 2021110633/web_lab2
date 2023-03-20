@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba:fastjson:1.2.71">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.71/fastjson-1.2.71.jar!/" />
+      <root url="file://D:/tomcat/apache-tomcat-8.5.87/lib" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.71/fastjson-1.2.71-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.71/fastjson-1.2.71-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://D:/tomcat/apache-tomcat-8.5.87/lib" recursive="false" />
+  </library>
+</component>
